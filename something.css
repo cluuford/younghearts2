@@ -1,0 +1,41 @@
+body {
+      font-family: helvetica;
+      text-align: center;
+      background-color: #cc3399;
+      padding:  50px;
+}
+
+h2 {
+    color: #ff99ff;
+    font-size: 80px;
+    font-family: helvetica;
+    margin: 100px
+}
+
+img {
+    height: 400px;
+    border: 15px solid black;
+    border-color: #660066;
+    padding: 5px;
+    margin: 20px 50px 50px 50px;
+}
+
+ol  {
+    font-size: 60px;
+    margin: 0 auto;
+    width: 150px;
+}
+
+h1  {
+    color: #ffff66;
+}
+
+h6 {
+    font-size: 50px;
+    margin: 50px;
+    color: #ff99ff;
+}
+
+.first  {
+  color = white;
+}
